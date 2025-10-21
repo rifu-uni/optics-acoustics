@@ -1,0 +1,22 @@
+Polarizador a 90°
+Intensidad de referencia: 3280
+
+A: Ángulo marcado en la rueda
+I: Intensidad medida 
+
+A       I
+5	14.5
+10	14.6
+15	15.4
+20	16.4
+25	17.2
+30	18.5
+35	21.3
+40	26.1
+45	32
+50	35.6
+55	41.1
+60	55.1
+65	60.4
+70	73.7
+75	79.2
