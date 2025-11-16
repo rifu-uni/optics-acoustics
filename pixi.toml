@@ -1,0 +1,13 @@
+[workspace]
+authors = ["rifusaki <martinagmejia@gmail.com>"]
+channels = ["conda-forge"]
+name = "optics-acoustics"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+scipy = ">=1.16.3,<2"
+numpy = ">=2.3.4,<3"
+opencv = ">=4.12.0,<5"
